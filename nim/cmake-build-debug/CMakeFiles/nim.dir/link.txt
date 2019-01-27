@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/nim.dir/main.c.o  -o nim.exe -Wl,--out-implib,libnim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

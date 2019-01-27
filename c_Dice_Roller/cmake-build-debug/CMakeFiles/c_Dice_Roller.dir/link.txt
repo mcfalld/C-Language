@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/c_Dice_Roller.dir/main.c.o  -o c_Dice_Roller.exe -Wl,--out-implib,libc_Dice_Roller.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

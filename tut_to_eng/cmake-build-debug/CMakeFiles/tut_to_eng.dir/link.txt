@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/tut_to_eng.dir/main.c.o  -o tut_to_eng.exe -Wl,--out-implib,libtut_to_eng.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

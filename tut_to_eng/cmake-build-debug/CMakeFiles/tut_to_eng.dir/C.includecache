@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Derrick/Desktop/C/tut/IO.h
+stdio.h
+-
+stdbool.h
+-
+memory.h
+-
+
+/cygdrive/c/Users/Derrick/Desktop/C/tut_to_eng/main.c
+stdio.h
+-
+../tut/IO.h
+/cygdrive/c/Users/Derrick/Desktop/C/tut/IO.h
+

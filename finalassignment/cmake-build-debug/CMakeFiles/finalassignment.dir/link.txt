@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/finalassignment.dir/main.c.o  -o finalassignment.exe -Wl,--out-implib,libfinalassignment.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
